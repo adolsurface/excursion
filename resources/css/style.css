@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: Verdana;
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+    position: center;
+}
+body {
+    background: black;
+    text-align: center;
+    
+}
+
+a {
+    color: aquamarine;
+    font-size: 25px;
+}
+header {
+   text-align: center;
+   padding-top: 20px;
+    }
+p {
+      padding-top: 20px;
+      font-family: Verdana;
+      font-size: 21px;
+      color: white;
+  }
+  h2 {
+      color: white;
+      font-size: 42px;
+      font-family: verdana;
+      font-weight: 300;
+  }
+  h3 {
+      text-align: right;
+      color: grey;
+      padding-right: 10px;
+      font-size: 21px;
+      font-family: Verdana;
+      font-weight: normal;
+      padding-bottom: 25px;
+  }
+  div, img, h3, h2, p, a {
+      padding-top: 30px;
+  }
